@@ -18,8 +18,9 @@ pyxee
      :alt: Updates
 
 
-Python CLI for Xee API
+Python bindings and command line interface for Xee API
 
+CURRENTLY WORK IN PROGRESS
 
 * Free software: Apache Software License 2.0
 * Documentation: https://pyxee.readthedocs.io.
@@ -28,7 +29,7 @@ Python CLI for Xee API
 Features
 --------
 
-* TODO
+* OAuth2 authentication with Web Application Flow
 
 Credits
 ---------
@@ -37,4 +38,3 @@ This package was created with Cookiecutter_ and the `audreyr/cookiecutter-pypack
 
 .. _Cookiecutter: https://github.com/audreyr/cookiecutter
 .. _`audreyr/cookiecutter-pypackage`: https://github.com/audreyr/cookiecutter-pypackage
-

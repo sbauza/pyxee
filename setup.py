@@ -27,7 +27,7 @@ test_requirements = [
 setup(
     name='pyxee',
     version='0.1.0',
-    description="Python CLI for Xee API",
+    description="Python bindings and CLI for Xee API",
     long_description=readme + '\n\n' + history,
     author="Sylvain Bauza",
     author_email='sbauza@free.fr',
