@@ -10,5 +10,5 @@ cryptography==1.9
 PyYAML==3.12
 
 requests-oauthlib==0.8.0
-oauthlib==2.0.2
+oauthlib==3.0.1
 gevent==1.2.2
